@@ -70,15 +70,6 @@
                 </a>
             </p>
         </div>
-
-        <!-- Demo Info -->
-        <div class="mt-8 p-4 bg-white rounded-2xl shadow-md border border-gray-100">
-            <p class="text-xs text-neutral-text-secondary text-center">
-                <span class="font-semibold">Demo Akun:</span><br>
-                Email: demo@example.com<br>
-                Password: demo123
-            </p>
-        </div>
     </div>
 </div>
 
